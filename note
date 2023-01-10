@@ -1,0 +1,34 @@
+Creating Server
+--------------
+1. we have to  craete package.json
+
+commands for creating package.json
+npm init
+
+2.create entry point file (index.js)
+
+3.we have to install express in the serve 
+commands for installing
+npm i express
+
+4.import express inside index.js file
+ using require
+
+5.we have to create server app using express
+
+6.setup port for serve app
+ method used here is "listen"
+
+7. run this using node 
+
+8.to resolve client http request
+
+1xx-------information
+2xx-------success
+3xx--------redirection
+4xx--------
+
+to connect mongo db with server
+the library used is mongoose(to connect mongodb to server)
+
+to install mongoose ----npm i mongoose in the terminal of bank server.
